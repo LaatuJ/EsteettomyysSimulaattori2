@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-/*h ttps://www.youtube.com/watch?v=n-KX8AeGK7E&t=594s */
+/* https://www.youtube.com/watch?v=n-KX8AeGK7E&t=594s */
 
 public class PlayerMove : MonoBehaviour
 {
