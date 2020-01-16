@@ -27,13 +27,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1542592286103482}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0.1396109, y: 0.49095508, z: -0.10033586, w: 0.8540519}
+  m_LocalPosition: {x: -0.03314823, y: -0.1020565, z: 1.0041952}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 19.694, y: 59.423004, z: -2.088}
 --- !u!33 &33924519507717488
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -69,6 +69,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -4487,8 +4488,8 @@ MonoBehaviour:
   - {x: -1, y: 0, z: 0, w: -1}
   - {x: -1, y: 0, z: 0, w: -1}
   - {x: -0.70710826, y: 0.0000030345652, z: 0.7071052, w: -1}
-  - {x: -0.7071076, y: 0.0000015389113, z: 0.707106, w: -1}
-  - {x: -0.7071076, y: 0.0000015389113, z: 0.707106, w: -1}
+  - {x: -0.7071075, y: 0.000001560541, z: 0.7071061, w: -1}
+  - {x: -0.7071075, y: 0.000001560541, z: 0.7071061, w: -1}
   - {x: -0.70710677, y: 0, z: 0.70710677, w: -1}
   - {x: -0.70710677, y: 0.0000012777152, z: 0.70710677, w: -1}
   - {x: -0.70710677, y: 0, z: 0.70710677, w: -1}
